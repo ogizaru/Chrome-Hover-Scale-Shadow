@@ -8,4 +8,8 @@ This combination creates a "lifting" effect, making the element feel as if it is
 ・Lightweight and designed not to interfere with website performance.<br>
 ・Provides a modern, polished feel to your web interaction.<br>
 
+**How to Use?**
+
+If you want to use Chrome-Hover-Scale-Shadow, please download Chrome-Hover-Scale-Shadow.md from the main page and import it into Tampermonkey. The developer is not responsible for any trouble that occurs from using this code.
+
 This program was made in **Google Gemini**.
